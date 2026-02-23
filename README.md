@@ -1,8 +1,16 @@
-<h1 align="center">SHIROKO 🐺</h1>  
-<p align="center"><i>Bot de WhatsApp con temática de Shiroko de Blue Archive</i></p>
+> <b>🚀 Versión actual: 1.0</b>
+
+<p align="center"><i>Bot de WhatsApp Inteligente Con Api</i></p>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED....;HYOSIMAR+APKS...;Kotlin+%7C+Java+%7C+AIDE;Building+PRO+Apps;Welcome+to+my+Cyber+World" />
+</p>
 
 <p align="center">
-  <img src="./src/shiroko.jpg" width="100%"/>
+  <img src="file_00000000a62871f5a30305668e21a448.png" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=900&lines=SYSTEM+APKS...;PANDA+MODS...;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Entering+Cyberpunk+Mode" />
 </p>
 
 ### **`❕️ Información importante 💙`**
