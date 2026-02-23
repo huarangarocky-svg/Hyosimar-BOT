@@ -15,11 +15,11 @@
 
 ### **`❕️ Información importante 💙`**
 
-**`Shiroko-Bot`** es un bot de WhatsApp basado en Node.js que utiliza la librería **@whiskeysockets/Baileys**
+**`Hyosimar-apks`** es un bot de WhatsApp basado en Node.js que utiliza la librería **@whiskeysockets/Baileys**
 Este bot ofrece una variedad de características para mejorar tu experiencia en WhatsApp.
 
 🚫 Este proyecto NO está afiliado a WhatsApp ni WhatsApp LLC.
-un bot hecho 100% por **[Arlette-Xz](https://github.com/Arlette-Xz)**.
+un bot hecho 100% por **[Hyossimar](https://github.com/Arlette-Xz)**.
 
 #### Características
 Configuración avanzada de grupos 
