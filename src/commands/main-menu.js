@@ -472,7 +472,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, sender }) => {
       selectedMenu = Object.values(menus).join('\n\n')
     }
 
-    const txt = `${menuHeader}\n\n${selectedMenu}\n\n> ✐ Powered By Arlette Xz`
+    const txt = `${menuHeader}\n\n${selectedMenu}\n\n> ✐ Powered By Panda Mods`
 
     conn.sendMessage(m.chat, {
       image: menuImage,
@@ -482,7 +482,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, sender }) => {
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363403176894973@newsletter',
           serverMessageId: '',
-          newsletterName: '【 ✰ 】𝗦𝗵𝗶𝗿𝗼𝗸𝗼 𝗕𝗼𝘁 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹'
+          newsletterName: '【 ✰ 】HYOSIMAR APKS'
         }
       }
     }, { quoted: m })
