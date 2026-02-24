@@ -73,7 +73,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Arlette-Xz/Shiroko-Bot && cd Shiroko-Bot
+git clone https://github.com/huarangarocky-svg/Hyosimar-BOT && cd Hyosimar-BOT
 ```
 ```bash
 yarn install
@@ -158,7 +158,7 @@ cd && cd Shiroko-Bot && nano settings.js
   <summary><b>🚀 VER PASOS PARA CLOUD SHELL</b></summary>
 
 ```bash
-git clone https://github.com/Arlette-Xz/Shiroko-Bot && cd Shiroko-Bot
+git clone https://github.com/huarangarocky-svg/Hyosimar-BOT && cd Hyosimar-BOT
 ```
 
 ```bash
