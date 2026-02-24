@@ -88,6 +88,34 @@ npm start
 </details>
 
 <details>
+
+<summary><b>Comandos adicionales</b>
+</summary>
+
+> *Comandos adicionales del bot:*
+
+  ```bash
+  rm -rf Hyosimar-BOT
+  ```
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+  ```bash
+git clone https://github.com/huarangarocky-svg/Hyosimar-BOT && cd Hyosimar-BOT
+  ```
+```bash
+yarn install
+```
+```bash
+npm install
+```
+```bash
+npm start
+```
+
+</details>
+
+<details>
   <summary><b>ꕤ Comandos para mantener más tiempo activo el Bot</b></summary>
 
 > *Ejecutar estos comandos dentro de la carpeta YukiBot-MD*
