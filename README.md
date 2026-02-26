@@ -210,7 +210,9 @@ npm start
     <img src="https://img.shields.io/badge/Canal%20Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial">
   </a>
   <a href="https://api.whatsapp.com/send/?phone=573114910796&text=&app_absent=0">
-    <img src="https://img.shields.io/badge/Contacto%20de%20Soporte-FF5722?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support Contact">
+
+
+    
   </a>
 </p>
 
@@ -218,9 +220,9 @@ npm start
 
 <p align="center">
   <a href="https://github.com/Arlette-Xz">
-    <img src="https://github.com/Arlette-Xz.png" width="130" height="130" alt="Arlette-Xz ꕤ"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED....;HYOSIMAR+APKS...;Kotlin+%7C+Java+%7C+AIDE;Building+PRO+Apps;Welcome+to+my+Cyber+World" />
     <br>
-    <strong>Arlette-Xz</strong>
+    <strong>HYOSIMAR-APKS</strong>
   </a>
 </p>
 
